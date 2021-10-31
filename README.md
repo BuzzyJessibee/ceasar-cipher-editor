@@ -13,7 +13,7 @@ I wanted to write it in Java because JSwing looked interesting to me, and I was 
 - Cipher and Decipher selected text
 
 # Software Demo Video
-
+[Software Demo Video](https://streamable.com/r3ueaq)
 
 # Development Environment
 - I used JetBrains' IntelliJ IDEA as my IDE
