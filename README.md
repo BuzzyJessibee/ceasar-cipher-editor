@@ -23,9 +23,9 @@ I wanted to write it in Java because JSwing looked interesting to me, and I was 
 - JSwing! Very good GUI library, highly recommend.
 
 # Useful Websites
-[Geeks For Geeks Text Editor Tutorial](https://www.geeksforgeeks.org/java-swing-create-a-simple-text-editor/)
-Stack Overflow
-W3 Schools Java course
+- [Geeks For Geeks Text Editor Tutorial](https://www.geeksforgeeks.org/java-swing-create-a-simple-text-editor/)
+- Stack Overflow
+- W3 Schools Java course
 
 # Future Work
 - Automatically cipher text on "enter key" pressed. (can be disabled)
